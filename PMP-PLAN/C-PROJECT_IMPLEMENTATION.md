@@ -13,6 +13,7 @@ The proposed neural network is YOLOv4 Convolutional Neural Network (CNN) in anti
 
 #### Outcomes of the system
 Upon, monitoring the real time surveillance video of the company the fire detection will be triggered if there’s any fire calamities occur. The YOLOv4 recognizes fire more precisely and alert the factory management as soon as fire is detected.
+<img src="assets/fire_screenshot_3.png" width="100%">
 
 ### Tasks and Estimated Costs
 
