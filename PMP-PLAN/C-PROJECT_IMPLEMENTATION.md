@@ -30,7 +30,7 @@ Upon, monitoring the real time surveillance video of the company the fire detect
 <img src="assets/Gantt Chart page 1.png" width="100%">
 <img src="assets/Gantt Chart page 2.png" width="100%">
 <img src="assets/Gantt Chart page 3.png" width="100%">
-
+<img src="assets/gridview.png" width="100%">
 
 
 <br><br><br>
