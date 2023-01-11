@@ -16,3 +16,6 @@ As a first step of it, a fire detection system in the factory will be installed 
 + To develop an artificial intelligence system that are able to detect fire 
 + To develop a system that are able to recognize the visual of fire
 + To develop an application programming interface (API) for the future ease of use as the integration module
+
+<br><br><br>
+##### Next: [Project Planning](B-PROJECT_PLANNING.md)
