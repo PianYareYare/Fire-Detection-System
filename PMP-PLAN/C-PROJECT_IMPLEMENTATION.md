@@ -27,9 +27,9 @@ Upon, monitoring the real time surveillance video of the company the fire detect
 
 ### Milestone Chart
 #### Smartsheet:
-<img src="assets/implementation/QTMT Gantt Chart WBS_Page_1.png" width="100%">
-<img src="assets/implementation/QTMT Gantt Chart WBS_Page_2.png" width="100%">
-<img src="assets/implementation/QTMT Gantt Chart WBS_Page_3.png" width="100%">
+<img src="assets/Gantt Chart page 1.png" width="100%">
+<img src="assets/Gantt Chart page 2.png" width="100%">
+<img src="assets/Gantt Chart page 3.png" width="100%">
 
 
 
